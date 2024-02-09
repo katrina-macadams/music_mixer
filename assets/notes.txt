@@ -1,0 +1,71 @@
+Notes - Incredibox 
+
+**UI**
+Observations before clicking anything:
+
+1. Name of website in top left corner, followed by their 'APP' 'DEMO' (what I'm clicked on so its highlighted), 'PLAYLIST, 'ALBUMS', and 'SHOP'. Social media icons, and language selector
+
+2.
+
+a) Hamburger Menu (After clicked, it slides the entire top menu over to reveal a RESET button,
+AUTO button, and REC (Recording) button on the far left. On the far right it opens a '?' Help button, and two parallel arrows pointing the opposite way to switch theme)
+
+b) Before being clicked, the top bar above the singers has music disc and two either icons which appear with a lock icon if you have not unlocked the first bonus sound. 
+
+c) To the far right is a pause button, a ring moves around it displaying the time until the next repeat of sounds (refer to 'H' for more info on its functionality) 
+
+3. In the middle spacing the entire screen is the "singers" looking neutral and naked (lol) 
+
+4. Middle of screen, a chat shaped box appears above our 'instruments/sounds' prompting a "Drag N' Drop" title and a description that reads "Drag and drop an icon on a character to have him sing." (Can click anywhere to get rid of this)
+
+5. Instruments/Sound Selection decorates the bottom of the screen 
+
+**Functionality** 
+
+A. The music disc closest to the left took me a second to figure out, when you have nothing added and it is clicked, it will highlight a certain sound, once you add those sounds it fills up with the colours of each sound and when it's full you get a "BONUS" prompt and a short cartoon video. And then you unlock the next icon. Finding the 'right' sound combo for each icon gets a video with that sound combo (it also takes a second to load until you get the video.) Once you complete all three nothing really happens except one last video 
+
+B. Having no sounds selected to a character means no sound plays.
+
+C. You can drag any of the sounds to any character 
+
+D. After that sound is used, it's greyed out (in contract to its usual bright colour) and CANNOT be used again. Another sound CANNOT be placed on the same character
+
+E. There are three ways I've found to stop the current sound(s) applied to the character. 
+
+1) You can hover over the character and get three options to mute (you can also mute by clicking on the character)
+
+2) clicking an 'X' with put the sound back into the row of sounds a remove it entirely from the character and can be used on another character (this can also be done by drawing downwards on the character. 
+
+3) There's also a headphone icon and idk what it does, I plugged in my headphones and turned that button on and off and I think it made the music better when listening through headphones but that might be placebo
+
+F. All the sounds of different intervals. The music mixer I chose 'The Love' has 20 sounds, 5 categories of sounds. 
+
+1) The first five sounds seems like short beats with sharp sounds (beatboxing and stuff) 
+
+2) The second category had more musicality and rhythm, longer and diverse sounds. 
+
+3) Third category had more singing, and the sounds definitely felt like they were from the same "family." 
+
+4) Last category had more singing as well, but it was far more mellow and didn't necessarily have words but I'd compare it to "Simlish"  speaking
+
+G. When characters are not singing, they return to neutral face :| 
+
+H. Characters added after the 'repeat timer' (2.c), a blue bar under that character shows how long until that character can be added (into the next repeat, so it will dissapear when the repeat timer starts a new ring) 
+
+I. Clicking the hamburger menu (2.a)
+
+1) RESET button will remove all sounds from all characters with one click 
+
+2) AUTO button will automate the process, it describes it as "Automatic mode" "Let the App play for you. Pump it up and enjoy." So it pretty much does that, it will add singers (not sure if it's randomized) and remove singers and replace with new sounds as time goes on. (The buttons arrows will also spin and you can click on it to exit auto mode) 
+
+3) REC will record your audio for up to 3:04. It needs to record for a MINIMUM of 24 seconds or you will get a prompt saying that "your recording must be at a minimum of 24 secs" (it will even show on the recording progress bar the minimum checkpoint you need to hit). Once you click on the button again, the singing will stop, and you have the option to "RETRY" "REPLAY" or "SAVE"
+
+i.) Retry will clear your recording, return you to the same screen when you load in (with the drag and drop prompt) once you drag and drop a sound, it will AUTOMATICALLY start recording. If you click off the prompt without dragging a sound the recording will not start.If you click the record button without recording anything, it will return back to the hamburger menu. 
+
+ii.) Replay will replay the entire recording for you with the caption "Replay Mode" "Does your mix sound good? Then share it!", it then gives a button on the side to save or, once the recording is finished playing, it will return you to all 3 options again 
+
+iii.) SAVE will bring up a form where you put your "DJ Name" which is essentially your first name (required), "Your mix title" (required), and "dedicated to...", after clicking the checkmark you then have the option to copy the link, share, export, or add it to my mix (app only) 
+
+
+
+
