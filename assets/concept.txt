@@ -1,0 +1,14 @@
+Music Mixer Concept
+
+Mermaid Music Mixer will be a deep see inspired music mixing game that incorporates cartoonish and bright styles.
+
+Almost all of the icons including the sounds will be presented by deep sea animals and sea related things such as a fish, whale, crab, coral, seaweed and more.
+
+Users will be prompted to drag each sound into a slot, in which the music mixer will play on a ten second loop. 
+
+Each sound will be aquatic inspired, tying in rhythms and beats to one of the sound icons (Each sound will give the same vibe as that animal)
+
+The design will incororate a colour scheme of warm blues, greens and purples. 
+
+The mixer will feature an illustration of a mermaid who is going to "mix" your songs for you 
+

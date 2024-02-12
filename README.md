@@ -27,7 +27,9 @@ The usage for the Music Mixer website itself is to drag and drop different sound
 ## History
 
 Jan 10th, 2024 - Created Repo 
-Feb 9th, 2024 -  
+Feb 9th, 2024 -  Researched Music Mixer ideas and came up with a theme and made notes, basic html/css, and a readme. 
+Feb 10th, 2024 - Created SVGS for mixer and wrote down funtionality plan 
+Feb 11th, 2024 - Finished Functionality plan, and wrote up a concept in a text file, also imported SVGs made the day before 
 
 ## Credits
 

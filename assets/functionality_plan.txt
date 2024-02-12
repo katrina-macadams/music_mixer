@@ -1,0 +1,35 @@
+Functionality Plan
+
+Mermaid Music Mixer is an interactive music experience using sounds inspired from sea life. The program is meant for the user to drag the sound from the sound bar, and drop it in one of seven slots to create a beat or rhythm. This rhythm will play until the user decides to take it off, pause the mixer or mute the sound. The user can drag up to seven different sounds into the seven slots and the mixer will play all seven at the start of their track. 
+
+Limitations:
+- User should not be able to put more than one sound in each slot 
+- Sound should not play when it is no longer in the slot 
+- Sounds added after mixer has started will start playing at the end of mixer (10 seconds) not before
+- User cannot play more than 7 sounds at once
+- Sounds should not play if slots are empty
+- User cannot use the same sound twice
+
+What I need to know:
+- When the user places a sound in the slot 
+- Which sound they picked 
+- Which slot they picked 
+- When a user takes a sound out of a slot 
+- At what time e during the mixer loop the sound was placed 
+
+Usage Steps:
+Step 1. 
+After user loads in, all sounds will be displayed in the sound bar. User will be prompted to drag a sound to a slot. 
+
+Step 2. 
+Once a sound is dragged to a slot, the mixer will start and ONLY the in the slot will play 
+
+Step 3. 
+User can put up to 7 sounds and they will all play at the start of the mixer, each mixer loop lasts 10 seconds.
+
+Step 4. 
+If user desire to change the mix, they can simple tap on the slot and it will be put back 
+
+Step 5. Once a slot becomes empty it can be filled with another sound (or the same one, there’s no limitations on that). Once the slot is filled, it will play that sound at the start of the mixer
+
+Note - more functions may be added, but this is the basic structure 
