@@ -34,6 +34,7 @@ Feb 11th, 2024 - Finished Functionality plan, and wrote up a concept in a text f
 ## Credits
 
 Katrina MacAdams
+SVG Icons - <a target="_blank" href="https://icons8.com/icons/collections/py3fcmr70j1v9k0a4wa5">Sea</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a> (I plan to edit the SVG's in the future, these are mostly placeholders)
 
 ## License
 
