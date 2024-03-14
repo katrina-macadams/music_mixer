@@ -1,11 +1,50 @@
-/* CSS Reset */
-
-h1, h2, h3, h4, p { 
-    margin: 0px;
-    padding: 0px; 
+html {
+    background-color: #00A896;
 }
 
-/* Utility */
-.hidden {
-    display: none;
+.blue_box  {
+    padding: 8px ; 
+    background-color: #05668D;
+    border-radius: 24px;
+    list-style: none;
+}
+
+#mermaid_cont {
+    margin: 8px; 
+    background-color: #FFFFF8;
+    border-radius: 34px;
+    list-style: none;
+}
+
+#slot_cont {
+    margin: 8px;
+    padding: 12px; 
+    background-color: #FFFFF8;
+    border-radius: 34px;
+    list-style: none;
+}
+
+.sand_box {
+    margin: 8px;
+    padding: 4px; 
+    background-color: #f0f3bd;
+    border-radius: 24px;
+    list-style: none;
+}
+
+
+#sound_cont {
+    margin: 8px;
+    padding: 12px; 
+    background-color: #FFFFF8;
+    border-radius: 34px;
+    list-style: none;
+}
+
+.green_box {
+    margin: 8px;
+    padding: 12px; 
+    background-color: #02C39A;
+    border-radius: 24px;
+    list-style: none;
 }
