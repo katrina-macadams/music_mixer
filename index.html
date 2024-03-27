@@ -26,6 +26,8 @@
             <button id="help" class="blue_box col-start-3 col-span-1">Help</button>
         </ul>
     </div>
+
+    <audio id="audioEl" src="audio/bubbles.wav"></audio>
     <!-- drop sounds here -->
         <div id="slot_cont">
             <div class="sand_box"></div>
@@ -35,26 +37,26 @@
         </div>
 
         <!-- draggable sounds -->
-        <div class="sound_cont grid-con">
+        <div id="sounds" class="sound_cont grid-con">
             <div id="effects">
-                <img  id="bubbles" class="green_box" src="images/bubbles.PNG" alt="bubbles" width="100px" height="100px">
-                <img id="crab" class="green_box" src="images/crab.PNG" alt="crab" width="100px" height="100px">
+                <img  data-trackref="bubbles" id="bubbles" class="green_box" src="images/bubbles.PNG" alt="bubbles" width="100px" height="100px">
+                <img data-trackref="crab" id="crab" class="green_box" src="images/crab.PNG" alt="crab" width="100px" height="100px">
             </div>
 
             <div id="beats">
-                <img id="fish" class="green_box" src="images/fish.PNG" alt="fish" width="100px" height="100px">
-                <img id="lobster_shrimp" class="green_box" src="images/shrimp_lobster.png" alt="lobster and shrimp" width="100px" height="100px">
+                <img data-trackref="fish" id="fish" class="green_box" src="images/fish.PNG" alt="fish" width="100px" height="100px">
+                <img data-trackref="lobster_shrimp" id="lobster_shrimp" class="green_box" src="images/shrimp_lobster.png" alt="lobster and shrimp" width="100px" height="100px">
             </div>
 
 
             <div id="voices">
-                <img id="mermaid" class="green_box" src="images/mermaid.PNG" alt="mermaid" width="100px" height="100px">
-                <img id="seahorse" class="green_box" src="images/seahorse.PNG" alt="seahorse" width="100px" height="100px">
+                <img data-trackref="mermaid" id="mermaid" class="green_box" src="images/mermaid.PNG" alt="mermaid" width="100px" height="100px">
+                <img data-trackref="seahorse" id="seahorse" class="green_box" src="images/seahorse.PNG" alt="seahorse" width="100px" height="100px">
             </div>
 
             <div id="melodies">
-                <img id="starfish" class="green_box" src="images/starfish.PNG" alt="starfish" width="100px" height="100px">
-                <img id="jellyfish" class="green_box" src="images/jellyfish.PNG" alt="jellyfish" width="100px" height="100px">
+                <img data-trackref="starfish" id="starfish" class="green_box" src="images/starfish.PNG" alt="starfish" width="100px" height="100px">
+                <img data-trackref="jellyfish" id="jellyfish" class="green_box" src="images/jellyfish.PNG" alt="jellyfish" width="100px" height="100px">
             </div>
         </div>
 </section>
