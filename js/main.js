@@ -1,7 +1,7 @@
 //variables
 
 let soundBoard = document.querySelector(".sound_boards"), //puzzleBoard
-    seaSound = document.querySelectorAll('sound_cont img'), //puzzlePieces
+    seaSound = document.querySelectorAll('img'), //puzzlePieces
     slotContainer = document.querySelectorAll(".slot_cont"),    
     soundContainer = document.querySelector(".sound_cont"), //pieceContainer
     slotZone = document.querySelectorAll('.sand_box'), //dropZone
