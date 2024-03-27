@@ -5,7 +5,92 @@ h1, h2, h3, h4, p {
     padding: 0px; 
 }
 
+<<<<<<< Updated upstream
 /* Utility */
 .hidden {
     display: none;
 }
+=======
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+
+.blue_box  {
+    padding: 8px ; 
+    background-color: #05668D;
+    border-radius: 24px;
+    list-style: none;
+}
+
+#mermaid_cont {
+    margin: 8px; 
+    background-color: #FFFFF8;
+    border-radius: 34px;
+    list-style: none;
+}
+
+
+#sound_boards {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+
+#slot_cont {
+    margin: 8px;
+    padding: 12px; 
+    background-color: #FFFFF8;
+    border-radius: 34px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    height: 200px;
+}
+
+.sand_box {
+    margin: 8px;
+    padding: 4px; 
+    background-color: #f0f3bd;
+    border-radius: 24px;
+    position: relative;
+    list-style: none;
+    width: 50%;
+    height: 50%;
+}
+
+.sand_box img {
+    padding: 0;
+	position: absolute;
+	width: 90%;
+}
+
+
+#sound_cont {
+    margin: 8px;
+    padding: 12px; 
+    background-color: #FFFFF8;
+    border-radius: 34px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.green_box {
+    margin: 8px;
+    padding: 8px;
+    background-color: #02C39A;
+    display: flex;
+    border-radius: 24px;
+    list-style: none;
+    cursor: pointer;
+}
+
+
+#sound_cont object {
+    cursor: pointer;
+}
+>>>>>>> Stashed changes
